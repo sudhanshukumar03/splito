@@ -1,0 +1,17 @@
+{
+  "css": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600&display=swap",
+  "files": [
+    {
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+      "file": "inter-400-latin.woff2"
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
+      "file": "poppins-600-latin.woff2"
+    }
+  ],
+  "licenses": {
+    "inter": "https://github.com/google/fonts/blob/main/ofl/inter/OFL.txt",
+    "poppins": "https://github.com/google/fonts/blob/main/ofl/poppins/OFL.txt"
+  }
+}
